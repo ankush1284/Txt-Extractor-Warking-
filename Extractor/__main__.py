@@ -1,9 +1,4 @@
-import logging
-# Removed duplicate Client creation and info_bot logic now handled in __main__.py
-import logging
-# Removed duplicate Client creation and info_bot logic now handled in __main__.pyimport logging
-# Removed duplicate Client creation and info_bot logic now handled in __main__.pyimport logging
-# Removed duplicate Client creation and info_bot logic now handled in __main__.pyimport asyncio
+import asyncio
 import importlib
 from pyrogram import idle, Client, filters
 import logging
